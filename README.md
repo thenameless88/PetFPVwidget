@@ -3,6 +3,10 @@
 Full-screen (320x240) widget: a pixel-art cat or dog that shows moods, reacts to telemetry (LQ, RSSI, RX and TX battery) and shows the ARM state.
 Tested on: Helloradio V12
 
+<img src="PetFPV_5_cats_demo_EN.gif" width="400" />
+<img src="PetFPV_5_dogs_demo_EN.gif" width="400" />
+
+
 ## Installation
 
 1. Copy the `SD/WIDGETS/PetFPV/` folder to the SD card, so you get `SD:/WIDGETS/PetFPV/main.lua` and `SD:/WIDGETS/PetFPV/img/...`
