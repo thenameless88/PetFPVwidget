@@ -49,3 +49,5 @@ Keep the folder name `PetFPV`: EdgeTX limits widget folder names to 8 characters
 
 Constants at the top of `main.lua`: `ARM_ACTIVE_HIGH` (true: switch high = ARM), `TX_LOW_V`, `CELL_LOW`, `CARD` (background card), `DEBUG`.
 
+## Credits
+Special thanks to **haverr44** for creating the pixel art assets used in this script.
